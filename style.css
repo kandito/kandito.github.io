@@ -1,0 +1,37 @@
+/*******************************
+            Global
+*******************************/
+#main_page {
+  background-color: #FFFFFF;
+}
+html, body {
+  height: 100%;
+  font-size: 15px;
+}
+
+html, body {
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+#header {
+	padding-top: 50px;
+	background : url("images/bg.jpg");
+	background-position: 20%;
+}
+
+#profile_picture {
+  width: 10.5em;
+}
+
+.button {
+  margin-top: 15px !important;
+}
+
+#right a {
+  color: #ffffff
+}
+
+#footer {
+	text-align: center;
+	margin-top: 50px;
+}
