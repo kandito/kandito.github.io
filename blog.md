@@ -1,5 +1,6 @@
 ---
-title: Archive
+title: Blog Archives
+permalink: /blog/
 layout: archives
 ---
 

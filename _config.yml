@@ -1,2 +1,11 @@
 me: 'Kandito A. Wicaksono'
-title: 'Kandito : Homepage'
+title: 'Kandito.com'
+email: kanditoaw@gmail.com
+description: Kandito's Blog
+baseurl: ""
+url: "http://www.kandito.com" # the base hostname & protocol for your site
+
+permalink: /:categories/:year/:month/:day/:title/
+timezone: Asia/Jakarta
+paginate_path: /blog/:num/
+paginate: 5
